@@ -57,3 +57,4 @@ New-AzVm `
 -SecurityGroupName $networkSecurityGroupName `
 -SshKeyName $sshKeyName `
 -Zone "2"
+
